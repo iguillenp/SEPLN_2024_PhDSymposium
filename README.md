@@ -15,5 +15,8 @@ This repository contains the materials presented during the PhD Symposium of the
 ## Use
 The materials presented here can be used as a reference for future research, teaching, or for dissemination of the work presented at the symposium.
 
+## Acknowledgements
+This work is supported by the Predoctoral Grant (PIPF-2022/COM-25947) of the Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, Spain.
+
 ## License
 This work is licensed under the MIT License. For more details, see the LICENSE file.

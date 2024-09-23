@@ -3,7 +3,7 @@
 This repository contains the materials presented during the PhD Symposium of the XL International Congress of the Spanish Society for Natural Language Processing, including the three-minute presentation slide, the poster and the article related to the research paper.
 
 ## Repository Content
-- [Elevator pitch slide](https://github.com/iguillenp/SEPLN_2024_PhDSymposium/blob/main/3minutes%20slide.pdf): Presentation used during the oral presentation, in PDF format, summarising the main points of the research.
+- [Elevator pitch slide](https://github.com/iguillenp/SEPLN_2024_PhDSymposium/blob/main/3minutes%20slide.pdf): Slide used during the oral presentation, in PDF format, summarising the main points of the research.
 - [Poster](https://github.com/iguillenp/SEPLN_2024_PhDSymposium/blob/main/Poster%20SEPLN%202024.pdf): Poster presented at the poster session of the symposium, providing a visually appealing overview of the key results of the work.
 - [Paper](https://github.com/iguillenp/SEPLN_2024_PhDSymposium/blob/main/SymposiumPaper.pdf): A research paper that details the research in depth, including methodology, results and conclusions.
     

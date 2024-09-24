@@ -15,6 +15,9 @@ This repository contains the materials presented during the PhD Symposium of the
 ## Use
 The materials presented here can be used as a reference for future research, teaching, or for dissemination of the work presented at the symposium.
 
+## Contact me
+You can contact me through my email adress ibai.guillen@upm.es. Also, you can take a look to my [personal webpage](https://iguillenp.github.io/) in case you want to know more about me. 
+
 ## Acknowledgements
 This work is supported by the Predoctoral Grant (PIPF-2022/COM-25947) of the Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, Spain.
 
